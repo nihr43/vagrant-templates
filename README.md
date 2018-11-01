@@ -1,2 +1,2 @@
 # vagrant-templates
-Vagrant templates intended for use on Windows + WSL + Virtualbox
+Vagrant templates and tools intended for use on Windows + WSL + Virtualbox.
